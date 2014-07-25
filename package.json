@@ -1,0 +1,26 @@
+{
+  "name": "roadapps-gulpfile",
+  "description": "This is basic gulpfile used in some applications of the RoadApps platform for Javascript/CSS",
+  "keywords": [
+    "gulp",
+    "uglify"
+  ],
+  "version": "0.1.1",
+  "author": "Nechtan <dnechtan@gmail.com> (http://hax0r.in)",
+  "engines": {
+    "node": ">=0.10.26",
+    "npm": ">=1.4.3"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-concat": "^2.3.4",
+    "gulp-uglify": "^0.3.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-insert": "^0.4.0",
+    "gulp-cssmin": "^0.1.6",
+    "gulp-clean": "^0.3.1",
+    "gulp-util": "^3.0.0"
+  }
+}
